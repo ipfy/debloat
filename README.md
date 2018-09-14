@@ -1,2 +1,2 @@
 # debloat
-WordPress DeBloat Plugin
+DeBloat WordPress Plugin
